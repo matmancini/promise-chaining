@@ -1,0 +1,20 @@
+{
+  "name": "promises",
+  "version": "0.0.1",
+  "authors": [
+    "matiasalibertti <matias.alibertti@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.14",
+    "lodash": "~3.3.1"
+  }
+}
